@@ -280,10 +280,8 @@ body{
   overflow-x: hidden;
   text-decoration: underline;
 }
-.emailbox{
-  text-decoration: none;
+.emailbox a{
   color: inherit;
-}
 }
 .foot{
   padding: 70px 100px;
